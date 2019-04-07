@@ -133,3 +133,9 @@ all.config
 
 # Kdevelop4
 *.kdev4
+
+# aux
+drivers/gpu/drm/nouveau/nvkm/subdev/i2c/aux.*
+drivers/gpu/drm/nouveau/nvkm/subdev/i2c/aux.*
+include/soc/arc/aux.*
+
